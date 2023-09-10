@@ -1,0 +1,29 @@
+body
+{
+background-color: rgb(243, 234, 192);
+color: rgb(6, 48, 24);
+margin-left: 500px;
+margin-right: 500px;
+}
+#memeImage
+{
+    max-width: 600px;
+    max-height: 800px;
+}
+nav
+{
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+footer
+{
+    text-align: center;
+    margin-right: 200px;
+}
+header
+{
+    text-align: center;
+}
